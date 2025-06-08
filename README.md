@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm A</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Anshika Solanki</h1>
+<h3 align="center">Aspiring Data Scientist with profound knowledge in MLOps , Deep Learning , Artificial Intelligence</h3>
 
 - 🔭 I’m currently working on [Spatio Temporal EV Adoption Forecasting Project](https://github.com/AnshikaSolanki3005/Spatio-Temporal-EV-Adoption-Forecasting-Project)
 
